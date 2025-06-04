@@ -10,7 +10,6 @@ This project is an AI-driven inventory assistant that automates Google Sheets up
 
 ## 📂 What's Included
 - `workflow/My_workflow.json`: The full n8n export file
-- This README: Documentation to help employers and users understand the project scope
 
 ## 🎯 Key Skills Demonstrated
 - ✅ Business process automation using low-code tools
